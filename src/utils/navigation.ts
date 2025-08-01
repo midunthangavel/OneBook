@@ -1,0 +1,1 @@
+// Navigation utilities removed - Expo Router handles navigation
